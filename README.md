@@ -22,7 +22,7 @@
 
 rebrands is a collection of the world's most hated IT stickers, continued. It takes the legendary [misbrands](https://github.com/mkrl/misbrands) and (almost) all of its open pull requests in hopes of helping you find your new favorite misbrand.  
 
-  <img src="assets/rebrands.png" alt="rebrands">
+  <img src="https://pbs.twimg.com/media/EC5sIScWkAIUSen?format=png&name=900x900" alt="rebrands">
 
 ---
 
