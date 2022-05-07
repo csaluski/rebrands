@@ -35,12 +35,14 @@ General Guidelines:
 - When adding a new misbrand, please make sure it's in SVG format. 
 - Please provide a descriptive name for the files you're adding
 - Unless obvious by the filenames, please provide a good description for the PR as well
+- Also feel free to add yourself to the list of contributors!
 
 ---
 
 ### ❖ Contributors
 
 - original misbrands - [mkrl](https://github.com/mkrl)
+- new readme image - [dharmik529](https://github.com/dharmik529)
 - manjaro-fedora - [Wivik](https://github.com/Wivik)
 - sklearn, tensorflow, and pytorch - [rolisz](https://github.com/rolisz)
 - c++ - [1-e-x-x](https://github.com/1-e-x-x)
