@@ -6,7 +6,7 @@
    
    <img src="https://img.shields.io/github/stars/dotzenith/rebrands?color=F8BD96&labelColor=302D41&style=for-the-badge">   
 
-   <img src="https://img.shields.io/github/forks/dotzenithd/rebrands?color=DDB6F2&labelColor=302D41&style=for-the-badge">   
+   <img src="https://img.shields.io/github/forks/dotzenith/rebrands?color=DDB6F2&labelColor=302D41&style=for-the-badge">   
 
    <img src="https://img.shields.io/github/repo-size/dotzenith/rebrands?color=ABE9B3&labelColor=302D41&style=for-the-badge">
    
