@@ -77,7 +77,7 @@ General Guidelines:
 - react-atom - [mauro-balades](https://github.com/mauro-balades)
 - python-brainf, rust-cpp, angular-jquery, kubernetes-shellscript, rails-spring, jetbrains-vi - [Gottox](https://github.com/Gottox)
 - rails-django - [jacobian](https://github.com/jacobian)
-
+- julia-r, r-julia [csaluski](https://github.com/csaluski)
 ---
 
 <div align="center">
